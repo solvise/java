@@ -24,6 +24,6 @@ public class Javatest {
                 }
         }
        System.out.println("Correct. The number was " + target);
-       System.out.println("It took " + attempts + "attempts to guess the number.");
+       System.out.println("It took " + attempts + " attempts to guess the number.");
     }
 }
